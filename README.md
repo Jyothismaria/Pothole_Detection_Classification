@@ -29,11 +29,12 @@ This modular architecture helps isolate detection from classification, allowing 
 ### Detection Model Training
 
 - To train new YOLO models, use the `detection` Jupyter notebook
-- This was used to test various YOLOv11 configurations
+- This was used to test various YOLOv configurations
+- This file needs to be run in Google Colab
 
 ### Large Dataset Training
 
-- The zipped folder was used to train a larger pothole detection model on a more extensive dataset
+- The zipped folder ('Pothole Detection.v1i.yolov11.zip') was used to train a larger pothole detection model on a more extensive dataset
 
 ## Results
 
