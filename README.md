@@ -15,9 +15,7 @@ This modular architecture helps isolate detection from classification, allowing 
 
 ### Step-by-Step Instructions
 
-1. Run Dataset Transformation
-   - Open and run the `dataset_transformation` notebook
-   - This loads and preprocesses data
+1.
 
 2. Run Final Pipeline
    - Open the `pipeline` notebook
@@ -31,6 +29,10 @@ This modular architecture helps isolate detection from classification, allowing 
 - To train new YOLO models, use the `detection` Jupyter notebook
 - This was used to test various YOLOv configurations
 - This file needs to be run in Google Colab
+
+##  Run Dataset Transformation
+   - Open and run the `dataset_transformation` notebook
+   - This loads and preprocesses data for the classification model training 
 
 ### Large Dataset Training
 
