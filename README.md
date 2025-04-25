@@ -17,7 +17,7 @@ This modular architecture helps isolate detection from classification, allowing 
 
 1. Run Dataset Transformation
    - Open and run the `dataset_transformation` notebook
-   - This loads and preprocesses data, including test samples with clean and rainy pothole conditions
+   - This loads and preprocesses data
 
 2. Run Final Pipeline
    - Open the `pipeline` notebook
