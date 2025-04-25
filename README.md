@@ -34,7 +34,7 @@ This modular architecture helps isolate detection from classification, allowing 
 
 ### Large Dataset Training
 
-- The zipped folder ('Pothole Detection.v1i.yolov11.zip') was used to train a larger pothole detection model on a more extensive dataset
+- The zipped folder (`Pothole Detection.v1i.yolov11.zip`) was used to train a larger pothole detection model on a more extensive dataset
 
 ## Results
 
