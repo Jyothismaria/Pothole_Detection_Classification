@@ -46,3 +46,37 @@ This modular architecture helps isolate detection from classification, allowing 
 - Designed to be modular, scalable, and realistic for deployment
 - Trained and validated on data with real-world camera perspectives
 
+## Citations
+@software{yolov8_ultralytics,
+  author = {Glenn Jocher and Ayush Chaurasia and Jing Qiu},
+  title = {Ultralytics YOLOv8},
+  version = {8.0.0},
+  year = {2023},
+  url = {https://github.com/ultralytics/ultralytics},
+  orcid = {0000-0001-5950-6979, 0000-0002-7603-6750, 0000-0003-3783-7069},
+  license = {AGPL-3.0}
+}
+
+@software{yolo11_ultralytics,
+  author = {Glenn Jocher and Jing Qiu},
+  title = {Ultralytics YOLO11},
+  version = {11.0.0},
+  year = {2024},
+  url = {https://github.com/ultralytics/ultralytics},
+  orcid = {0000-0001-5950-6979, 0000-0002-7603-6750, 0000-0003-3783-7069},
+  license = {AGPL-3.0}
+}
+
+@software{yolov5,
+  title = {Ultralytics YOLOv5},
+  author = {Glenn Jocher},
+  year = {2020},
+  version = {7.0},
+  license = {AGPL-3.0},
+  url = {https://github.com/ultralytics/yolov5},
+  doi = {10.5281/zenodo.3908559},
+  orcid = {0000-0001-5950-6979}
+}
+
+https://medium.com/data-science/the-comprehensive-guide-to-training-and-running-yolov8-models-on-custom-datasets-22946da259c3
+
