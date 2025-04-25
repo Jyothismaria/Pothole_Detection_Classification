@@ -14,10 +14,7 @@ This modular architecture helps isolate detection from classification, allowing 
 ## How to Run
 
 ### Step-by-Step Instructions
-
-1.
-
-2. Run Final Pipeline
+Run Final Pipeline
    - Open the `pipeline` notebook
    - This executes the full model: detection followed by severity classification
    - Outputs are saved and visualized
