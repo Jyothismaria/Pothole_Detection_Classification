@@ -33,7 +33,7 @@ Run Final Pipeline
 
 ### Large Dataset Training
 
-- The zipped folder (`Pothole Detection.v1i.yolov11.zip`) was used to train a larger pothole detection model on a more extensive dataset
+- The zipped folder (`Pothole Detection.v1i.yolov11.zip`) was used to train a larger pothole detection model on a more extensive dataset. Not uploaded in github due to large size. But can be loaded through roboflow. Look at `detection` for the code.
 
 ## Results
 
